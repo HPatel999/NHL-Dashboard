@@ -35,7 +35,7 @@ nhl_powerbi_project/
 |   ├── team_colors.csv
 ├── main.py          # Python script to fetch data from NHL API
 ├── NHL_Dashboard.pbix      # Power BI Desktop report
-├── README.md               # This file
+README.md               # This file
 ```
 
 ---
