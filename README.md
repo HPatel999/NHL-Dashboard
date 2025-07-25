@@ -5,6 +5,12 @@ This project scrapes real-time NHL data and turns it into a dynamic analytics da
 
 ---
 
+## 📣 **Author:** 
+Developed by **Harsh Patel**  
+If you would like to use this project for your own purposes, please do cite me.  
+If you'd like to contribute — especially by adding advanced stats — feel free to fork the repo and open a pull request!
+
+---
 ## ✅ Features
 
 - Up-to-date NHL team standings
@@ -131,7 +137,7 @@ C:\Users\YourName\Documents\nhl_powerbi_project\data\
 
 ## ⚠️ Known Limitations
 
-- Data only updates when `main.py` is run manually
+- Data only updates when `main.py` is run manually and you also need to refresh the table in PowerBi pressing the Refresh Button
 - If the NHL API changes or is rate-limited, some requests may fail
 - Player images, logos, and data are fetched directly from NHL API (real-time dependencies)
 
