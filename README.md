@@ -19,7 +19,7 @@ This project scrapes real-time NHL data and turns it into a dynamic analytics da
 
 | Home Dashboard | Team Page | Player Drillthrough (Skater View) | Player Drillthrough (Goalie View)|
 |----------------|-----------|----------------------|----------------|
-| ![home](screenshots/OverallTeamsPage.jpg) | ![team](screenshots/TeamStatsPage.jpg) | ![player](screenshots/PlayerStatsPageSkaterView.jpg) | ![goalie](screenshots/PlayerStatsPageGoalieView.jpg)|
+| ![home](nhl_powerbi_project/screenshots/OverallTeamsPage.jpg) | ![team](nhl_powerbi_project/screenshots/TeamStatsPage.jpg) | ![player](nhl_powerbi_project/screenshots/PlayerStatsPageSkaterView.jpg) | ![goalie](nhl_powerbi_project/screenshots/PlayerStatsPageGoalieView.jpg)|
 
 
 ---
