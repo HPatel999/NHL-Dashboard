@@ -33,9 +33,9 @@ nhl_powerbi_project/
 │   ├── rosters.csv
 │   ├── player_stats.csv
 |   ├── team_colors.csv
-├── main.py          # Python script to fetch data from NHL API
+├── main.py                 # Python script to fetch data from NHL API
 ├── NHL_Dashboard.pbix      # Power BI Desktop report
-README.md               # This file
+README.md                   # This file
 ```
 
 ---
